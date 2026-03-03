@@ -57,6 +57,8 @@ This indicates:
 
 The region demonstrates a clear **concentric economic pricing structure** centered on Jakarta.
 
+---
+
 ## 📊 Visualization
 
 ### Median Price per City
@@ -64,6 +66,12 @@ The region demonstrates a clear **concentric economic pricing structure** center
 
 ### Price per m² Comparison
 ![Price per m2](images/price.png)
+
+---
+## 🚀 Open in Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
+(https://colab.research.google.com/github/nikensfra/real-estate-market-intelligence/blob/main/notebooks/jabodetabek_property_analysis.ipynb)
 
 ---
 
