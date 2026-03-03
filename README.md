@@ -60,10 +60,10 @@ The region demonstrates a clear **concentric economic pricing structure** center
 ## 📊 Visualization
 
 ### Median Price per City
-![Median Price](images/median_price_per_city.png)
+![Median Price](images/download (2).png)
 
 ### Price per m² Comparison
-![Price per m2](images/price_per_m2_comparison.png)
+![Price per m2](images/download (1).png)
 ---
 
 ## 🛠 Tools Used
