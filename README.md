@@ -69,4 +69,4 @@ The region demonstrates a clear **concentric economic pricing structure** center
 
 ## 👩‍💻 Author
 Niken Safira  
-Aspiring Data Analyst | Market Intelligence Enthusiast
+Entry-Level Data Analyst | Data Enthusiast
